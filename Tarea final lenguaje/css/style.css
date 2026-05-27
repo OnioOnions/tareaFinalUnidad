@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', serif;
+}
+#cabecera{
+    background-color: gray;
+    display: flex;
+    position: sticky;
+    z-index: 1000;
+    top: 0px;
+    flex-wrap: wrap;
+}
+.banner{
+    width: 100%;
+}
